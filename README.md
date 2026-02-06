@@ -81,7 +81,7 @@ cd UsbBootLock
 
    2. Установите права на выполнение для скопированного скрипта:
       ```bash
-sudo chmod +x /путь/к/скрипту/usb-lock.sh
+      sudo chmod +x /путь/к/скрипту/usb-lock.sh
       ```
 
    3. Обновите образ `initramfs`:

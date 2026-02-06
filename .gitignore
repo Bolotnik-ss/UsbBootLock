@@ -1,0 +1,5 @@
+# Настройки IDE
+.vscode/
+.idea/
+*.swp
+*.bak

@@ -17,15 +17,7 @@
 
 ## Как установить
 
-### 1. Получение файлов проекта
-
-Клонируйте репозиторий:
-```bash
-git clone https://github.com/Bolotnik-ss/UsbBootLock.git
-cd UsbBootLock
-```
-
-### 2. Подготовка
+### 1. Подготовка
 
 **Установите необходимые пакеты:**
 
@@ -44,6 +36,14 @@ cd UsbBootLock
   ```bash
   sudo dnf install dracut usbutils # или yum
   ```
+
+### 2. Получение файлов проекта
+
+Клонируйте репозиторий:
+```bash
+git clone https://github.com/Bolotnik-ss/UsbBootLock.git
+cd UsbBootLock
+```
 
 ### 3. Определение серийного номера USB
 
